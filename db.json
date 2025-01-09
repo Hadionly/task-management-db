@@ -4,7 +4,7 @@
         "id": 1,
         "title": "First task",
         "description": "That is my first task",
-        "status": "Completed"
+        "status": "completed"
       }
     ]
   }
